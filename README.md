@@ -13,20 +13,31 @@ Crafted and taught by Shreya Malogi! 🌐
 - **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `Bootstrap`
 - **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
 - **Year of Project:** 2021
+- **DEMO**  
   
 ---
 
-## Introduction 🐾🌟
-Welcome to PawfectMate UI, a charming platform designed to enhance the social lives of our furry friends! This Bootstrap-powered interface provides an engaging and user-friendly experience for dogs and their owners to connect, play, and potentially find lifelong companionship.
+# Table of Contents
 
-## Prerequisites 🛠️📋
- make sure you have the following:
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [UI Components](#ui-components)
+- [Installation](#installation)
+- [Contribution](#contribution)
+- [License](#license)
+
+
+## Introduction 
+🐾🌟 Welcome to PawfectMate UI, a charming platform designed to enhance the social lives of our furry friends! This Bootstrap-powered interface provides an engaging and user-friendly experience for dogs and their owners to connect, play, and potentially find lifelong companionship.
+
+## Prerequisites 
+ 🛠️📋 Make sure you have the following:
 
 A modern web browser to view the UI.
 Basic understanding of HTML, CSS, and Bootstrap for any potential customization.
 Now, let's explore the components and understand how this delightful UI is crafted.
 
-## UI Components 🛠️🐾
+## UI Components
 
 - **Navbar:** Navigation bar providing easy access to different sections. 🚀
 - **Hero Section:** Welcoming users with a catchy tagline and action buttons. 🌟
@@ -34,9 +45,9 @@ Now, let's explore the components and understand how this delightful UI is craft
 - **Card Layouts:** Bootstrap cards displaying profiles or features in an organized grid. 🃏
 - **Responsive Design:** Ensuring a seamless experience across various devices. 📱💻
 
-## Installation 🚀🐾
+## Installation 
 
-follow these simple steps:
+🚀🐾 Follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
@@ -58,16 +69,19 @@ follow these simple steps:
 
 
   
-## Contribution - Show Your Support (Paw This) 🐾⭐📜✨
+## Contribution  
 
-Feel the canine magic within you? Contribute to this enchanting doggy matchmaking and make it even more tail-wagging. Don't forget to paw the project! 🐾⭐
+🐾⭐📜✨ Feel the canine magic within you? Contribute to this enchanting doggy matchmaking and make it even more tail-wagging. Don't forget to star the project! 🐾⭐
 
-## License 🐕🕊️
+## License 
 
-This project is enchanted under the spell of the MIT License. Share the doggy love responsibly!
+🐕🕊️ This project is enchanted under the spell of the MIT License. Share the doggy love responsibly!
 
 MIT License
 
 Copyright (c) 2021 Shreya Malogi
 
 Happy matchmaking! 🐶💖
+
+
+
