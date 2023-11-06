@@ -2,15 +2,14 @@
 
 🐾🌈 Welcome to the pawsitively charming project - Tailored Bootstrap Design for Doggo Connections!
 
-
-Crafted and taught by Shreya Malogi! 🌐
+Crafted and taught by **Shreya Malogi!** 🌐
 
 [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/PawfectMate-UI.svg?style=social)](https://github.com/shreyamalogi/PawfectMate-UI/stargazers)
 
 ### Project Details: 🐾🌐📅✍️
 
 - **Functionality:** Crafted with Bootstrap, this user interface provides an intuitive and visually appealing experience for doggos and their owners.
-- **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `Bootstrap`
+- **Tech Stack:** `HTML`, `CSS`, `Bootstrap`
 - **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
 - **Year of Project:** 2021
 - **DEMO:** https://shreyamalogi.github.io/PawfectMate-UI/ 
