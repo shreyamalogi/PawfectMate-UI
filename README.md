@@ -13,7 +13,7 @@ Crafted and taught by Shreya Malogi! 🌐
 - **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `Bootstrap`
 - **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
 - **Year of Project:** 2021
-- **DEMO**  
+- **DEMO:** https://shreyamalogi.github.io/PawfectMate-UI/ 
   
 ---
 
